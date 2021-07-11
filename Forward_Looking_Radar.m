@@ -9,7 +9,7 @@ clc
           student ID: 9512103311
 %}
 %%
-img=imread('singapore-ships.jpg');
+img=imread('ships.jpg');
 %img=imread('u2.jpg');
 img=rgb2gray(img);
 %% Chirp signal generation
